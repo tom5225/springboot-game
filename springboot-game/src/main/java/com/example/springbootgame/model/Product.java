@@ -9,6 +9,8 @@ public class Product {
     private Integer productCount;
     private String productPhoto;
 
+    private String test;
+
     public Integer getProductId() {
         return productId;
     }
