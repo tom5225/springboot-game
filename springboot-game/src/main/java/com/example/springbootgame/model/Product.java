@@ -3,7 +3,7 @@ package com.example.springbootgame.model;
 public class Product {
 
     private Integer productId;
-    private Integer test;
+
     private String productName;
     private String productType;
     private Integer productPrice;
